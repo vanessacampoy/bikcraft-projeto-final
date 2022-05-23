@@ -8,11 +8,13 @@
   gap: 20px;
   justify-content: space-between;
   align-items: center;
-  padding: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  /*padding: 20px;
   box-sizing: border-box;
   max-width: 1200px;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: auto;*/
 }
 
 .header-menu {
@@ -31,7 +33,7 @@
   content: ""; /*para aparecer a linha abaixo dos itens dos links*/
   display: block;
   height: 2px;
-  width: 0px;
+  width: 0px; /* começa com largura de 0 para que o item só apareça quando o mouse for posicionado*/
   background: #ffffff;
   margin-top: 4px;
   transition: 0.3s;

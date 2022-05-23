@@ -5,22 +5,22 @@
 
 .bicicletas-lista h2 {
   margin-bottom: 40px;
-  max-width: 1200px;
+  /*max-width: 1200px;
   box-sizing: border-box;
   padding-left: 20px;
   padding-right: 20px;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: auto;*/
 }
 
 .bicicletas-lista ul {
   display: flex;
   gap: 40px;
-  padding: 0 20px 40px 20px;
+  padding: 0 20px 20px 20px;
   max-width: 1400px;
   margin-left: auto;
   margin-right: auto;
-  overflow-x: auto; /*cria a barra de scroll somente para esse elemento*/
+  overflow-x: auto; /*cria a barra de scroll somente para esse elemento no eixo x*/
 }
 
 .bicicletas-lista li {
