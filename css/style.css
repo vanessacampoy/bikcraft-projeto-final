@@ -1,11 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&family=Roboto:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&family=Poppins:wght@400;500&family=Roboto:wght@400;500&display=swap');
+
 @import'./global.css';
 @import'./tipografia.css';
 @import'./header.css';
 @import'./introducao.css';
 @import'./experiencia.css';
+@import'./parceiros.css';
 @import'./tecnologia.css';
 @import'./cores.css';
 @import'./bicicletas-lista.css';
+@import'./depoimento.css';
+@import'./seguros.css';
 @import'./footer.css';
 
 
