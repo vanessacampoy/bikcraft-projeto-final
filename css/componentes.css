@@ -7,7 +7,7 @@
   margin-right: auto;
 }
 
-/*.botao {
+.botao {
   display: inline-block;
   padding: 16px 32px;
   background: linear-gradient(#ffbf00, #f2a50c);
@@ -21,7 +21,7 @@
 
 .botao:hover {
   background: linear-gradient(#ffb60d, #e59317);
-}*/
+}
 
 .botao.secundario {
   background: var(--cor-10);

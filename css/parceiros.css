@@ -25,7 +25,7 @@
 
 .parceiros li:first-child,
 .parceiros li:nth-child(5) {
-  border-left: none;
+  border-left: none; /*usado para retirar as bordas*/
 }
 
 .parceiros li:nth-child(n + 5) {
