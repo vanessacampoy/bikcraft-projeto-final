@@ -11,10 +11,14 @@
 @import'./cores.css';
 @import'./bicicletas-lista.css';
 @import'./bicicletas.css';
+@import'./bicicleta.css';
 @import'./depoimento.css';
+@import'./seguro.css';
 @import'./seguros.css';
 @import'./componentes.css';
 @import'./termos.css';
+@import'./vantagens.css';
+@import'./perguntas.css';
 @import'./footer.css';
 
 
