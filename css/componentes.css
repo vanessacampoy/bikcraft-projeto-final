@@ -85,8 +85,12 @@
   padding-bottom: 60px;
 }
 
+.titulo {
+  background: url(../img/dec/bottom-right.svg) no-repeat top right 20px;
+}
 
-/*titulos internos*/
+
+
 .titulo p {
 margin-bottom: 4px;
 }

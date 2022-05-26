@@ -15,7 +15,7 @@
   object-fit: cover;/*para nã distorcer a imagem*/
 }
 
-.seguro-conteudo img {
+.seguro-conteudo  {
   padding-top: 180px;
   padding-bottom: 180px;
 }
