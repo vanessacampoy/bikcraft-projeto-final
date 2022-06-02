@@ -3,27 +3,37 @@
 
 @import'./global.css';
 @import'./tipografia.css';
-@import'./header.css';
-@import'./introducao.css';
-@import'./experiencia.css';
-@import'./parceiros.css';
-@import'./tecnologia.css';
 @import'./cores.css';
+/*@import'./animacao.css';*/
+
+@import'./header.css';
+@import'./footer.css';
+
+@import'./componentes.css';
+@import'./formulario.css';
+
+@import'./introducao.css';
+@import'./tecnologia.css';
+@import'./parceiros.css';
+@import'./depoimento.css';
+
+
 @import'./bicicletas-lista.css';
 @import'./bicicletas.css';
 @import'./bicicleta.css';
-@import'./depoimento.css';
+
 @import'./seguro.css';
 @import'./seguros.css';
-@import'./componentes.css';
+@import'./experiencia.css';
 @import'./termos.css';
 @import'./contato.css';
-@import'./formulario.css';
+
 @import'./lojas.css';
 @import'./vantagens.css';
 @import'./perguntas.css';
 @import'./orcamento.css';
-@import'./footer.css';
+
+
 
 
 
